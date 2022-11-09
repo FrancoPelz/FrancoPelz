@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Franco Pelaez</h1>
+<img src="https://user-images.githubusercontent.com/107089825/200742531-b5fb4f12-f716-4dcd-a30d-91813989fc47.jpg"/>
+## 
 
 asdasdasd
 
@@ -22,6 +23,5 @@ asdasdasd
 
 ## 
 <h3 align="left">Languages and Tools:</h3>
-
 
 
