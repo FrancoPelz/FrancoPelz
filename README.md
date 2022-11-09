@@ -1,4 +1,5 @@
 <img src="https://user-images.githubusercontent.com/107089825/200742531-b5fb4f12-f716-4dcd-a30d-91813989fc47.jpg"/>
+
 ## 
 
 asdasdasd
@@ -22,6 +23,13 @@ asdasdasd
 
 
 ## 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/franco-pelaez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
+</p>
+<a href="wa.me/<5491162171646>" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124034.png?w=360"  height="30" width="40" /></a>
+</p>
+<img align="center" src="https://user-images.githubusercontent.com/81165701/192690305-960782a0-8542-44f0-a437-a1ce7efd8105.png"  height="30" width="40" />
+ pelaezmontt.franco@gamil.com
 
 
