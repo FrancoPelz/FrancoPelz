@@ -15,8 +15,21 @@ asdasdasd
 <a href="https://es.redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/107089825/200740048-a5646f96-22ae-456b-84de-d8ac49e15fb4.png" alt="react" width="40" height="40"/></p>
 
 ## 
-<h3 align="left">Languages and Tools:</h3>
 
+# 🚀 Proyectos
+
+<h3 align="left">HeladitosApp</h3>
+Proyecto grupal donde realizamos una aplicación web para la gestión de una heladería, para la venta de sus productos al público en general donde los clientes podían buscar los productos por nombre y/o categoría y ordenarlos por precio. Luego de registrarse en la página pueden editar su información, guardar sus helados favoritos, realizar compras seguras con Mercado Pago, realizar reviews de su experiencia en la plataforma y recibir en su correo electrónico los comprobantes de pagos de sus compras. 
+Por otro lado, creamos un panel de administración de la heladería a través de la cual los dueños pueden agregar y/o modificar sus productos, obtener un vistazo de cómo iba su negocio a través de un panel de estadísticas, generar reportes de ventas en Excel por un período determinado, gestionar el ingreso de nuevos administradores a la página y crear campañas promocionales a través de email, los cuales se envían desde la página gracias al uso de Nodemailer. 
+Implementamos un sistema de autenticación con Auth0 para la gestión y el acceso de usuarios a la plataforma, dándoles accesos diferenciados entre clientes y administradores.
+Adicionalmente creamos un Bot que te guía por la página a través de preguntas y respuestas.
+Toda la aplicación se desarrollo usando la metodología scrum.
+
+Tecnologías utilizadas:
+Auth0, ChakraUi, Cloudinary, NodeMailer, Mercado Pago, React Simple Chatbot, Redux Toolkit, Apexcharts, MongoDB, Mongoose, NodeJS, ExpressJS, React.js.
+
+<h3 align="left">Link del deploy</h3>
+"https://heladitos-app.vercel.app/"
 
 ## 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,11 +38,7 @@ asdasdasd
 ## 
 <h3 align="left">Connect with me:</h3>
 
-<a href="www.linkedin.com/in/franco-pelaez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
+![gmail_new_logo_icon_159149](https://user-images.githubusercontent.com/81165701/192690305-960782a0-8542-44f0-a437-a1ce7efd8105.png) pelaezmontt.franco@gamil.com
 
-<a href="wa.me/<5491162171646>" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124034.png?w=360"  height="30" width="40" /></a>
-
-<img align="center" src="https://user-images.githubusercontent.com/81165701/192690305-960782a0-8542-44f0-a437-a1ce7efd8105.png"  height="30" width="40" />
- pelaezmontt.franco@gamil.com
-
+![linkedin_icon-icons com_65929](https://user-images.githubusercontent.com/81165701/192690375-47fe2b98-e23c-4bdd-83ad-1cc0b923db99.png) https://www.linkedin.com/in/franco-pelaez
 
