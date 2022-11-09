@@ -29,7 +29,8 @@ Tecnologías utilizadas:
 Auth0, ChakraUi, Cloudinary, NodeMailer, Mercado Pago, React Simple Chatbot, Redux Toolkit, Apexcharts, MongoDB, Mongoose, NodeJS, ExpressJS, React.js.
 
 <h3 align="left">Link del deploy</h3>
-"https://heladitos-app.vercel.app/"
+https://heladitos-app.vercel.app
+
 
 ## 
 <h3 align="left">Languages and Tools:</h3>
