@@ -33,7 +33,7 @@ Auth0, ChakraUi, Cloudinary, NodeMailer, Mercado Pago, React Simple Chatbot, Red
 
 <h3 align="left">Link del deploy</h3>
 
-https://heladitos-app.vercel.app
+https://heladitos-app.netlify.app/
 
 ## 
 
