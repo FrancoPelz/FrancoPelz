@@ -44,7 +44,7 @@ https://heladitos-app.netlify.app/
 
 <h3 align="left">Henry Food</h3>
 
-Proyecto individual donde desarrolle de una SPA (Single Page Application) sobre recetas culianrias utilizando React para el Front End y Redux como state management. Todos los componentes fueron desarrollados con CSS sin uso de librerias externas.
+Proyecto individual donde desarrolle de una SPA (Single Page Application) responsive sobre recetas culianrias utilizando React para el Front End y Redux como state management. Todos los componentes fueron desarrollados con CSS sin uso de librerias externas.
 La SPA consume datos de una API a través de una Back End desarrollado en Node.JS utilizando Express, agregando nuevas funcionalidades a la API original. Algunos features del proyecto: Cache de búsquedas, ordenamientos y filtros, formulario controlado para la creacion de nuevas recetas y paginado.
 La finalidad de este trabajo fue la de implementar por primera vez las tecnologias vistas en el bootcamp de Henry, en solo 2 semanas.
 
