@@ -26,18 +26,18 @@ members, we implement SCRUM methodology and Trello. Developed in a total of 3 an
 My role was based more on the front, where I created components such as the nav-bar, the design of the forms, the 
 loading component, I implemented the method to be able to use different card details, redux toolkit settings. Above all, it 
 was to provide solutions to the different problems that were appearing.
-Project features: 
-• Deploy of Front-end and Back-end 
-• Integrated third-party authentication (Auth0)
-• Payment Gateway, both subscription and direct payment (Mercado Pago)
-• Filters and combined product sorts
-• Cloudinary/upload/bucket 
-• Notifications (email / Nodemailer) 
-• Logical delete
-• Local Storage
+Project features:  
+• Deploy of Front-end and Back-end  
+• Integrated third-party authentication (Auth0)  
+• Payment Gateway, both subscription and direct payment (Mercado Pago)  
+• Filters and combined product sorts  
+• Cloudinary/upload/bucket  
+• Notifications (email / Nodemailer)  
+• Logical delete  
+• Local Storage  
 • Reviews/ Punctuation
-• Admin dashboard 
-• React Simple Chatbot
+• Admin dashboard  
+• React Simple Chatbot  
 • Among others…
 
 tech stack:
