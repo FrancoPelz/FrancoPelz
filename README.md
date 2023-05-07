@@ -2,7 +2,7 @@
 
 ## 
 
-Hello! I'm Franco and I'm a Full Stack Developer💻. 
+Hello! I'm Franco and I'm a Full Stack Developer💻.  
 I'm interested in web development, from the Front-end side as well as the Back-end, of course databases too!
 
 
@@ -25,7 +25,7 @@ Development of an e-commerce in the food sector. Collaborate with a team of 8
 members, we implement SCRUM methodology and Trello. Developed in a total of 3 and a half weeks.
 My role was based more on the front, where I created components such as the nav-bar, the design of the forms, the 
 loading component, I implemented the method to be able to use different card details, redux toolkit settings. Above all, it 
-was to provide solutions to the different problems that were appearing.
+was to provide solutions to the different problems that were appearing.  
 Project features:  
 • Deploy of Front-end and Back-end  
 • Integrated third-party authentication (Auth0)  
@@ -40,7 +40,7 @@ Project features:
 • React Simple Chatbot  
 • Among others…
 
-tech stack:
+tech stack:  
 Auth0, ChakraUi, Cloudinary, NodeMailer, Mercado Pago, React Simple Chatbot, Redux Toolkit, Apexcharts, MongoDB, Mongoose, NodeJS, ExpressJS, React.js.
 
 <h3 align="left">Link del deploy</h3>
@@ -57,9 +57,9 @@ https://heladitos-app.netlify.app/
 <h3 align="left">Henry Food</h3>
 
 Development of a responsive SPA that consumes data from an API that included: searches, orders and filters, controlled 
-form for creating recipes, responsive design. No external libraries were used.
-Front: React, redux, pure css.
-Back: Node.JS, express.
+form for creating recipes, responsive design. No external libraries were used.  
+Front: React, redux, pure css.  
+Back: Node.JS, express.  
 Database: PostgreSQL and Sequalize
 
 
