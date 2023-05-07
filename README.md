@@ -2,9 +2,8 @@
 
 ## 
 
-Hola! Soy  Franco y soy Full Stack Developer💻. 
-Estoy interesado en el desarrollo web , tanto desde el lado de Front-end como del Back-end y base de datos.
-
+Hello! I'm Franco and I'm a Full Stack Developer💻. 
+I'm interested in web development, from the Front-end side as well as the Back-end, of course databases too!
 
 
 
@@ -22,13 +21,26 @@ Estoy interesado en el desarrollo web , tanto desde el lado de Front-end como de
 
 <h3 align="left">HeladitosApp</h3>
 
-Proyecto grupal donde realizamos una aplicación web para la gestión de una heladería, para la venta de sus productos al público en general donde los clientes podían buscar los productos por nombre y/o categoría y ordenarlos por precio. Luego de registrarse en la página pueden editar su información, guardar sus helados favoritos, realizar compras seguras con Mercado Pago, realizar reviews de su experiencia en la plataforma y recibir en su correo electrónico los comprobantes de pagos de sus compras. 
-Por otro lado, creamos un panel de administración de la heladería a través de la cual los dueños pueden agregar y/o modificar sus productos, obtener un vistazo de cómo iba su negocio a través de un panel de estadísticas, generar reportes de ventas en Excel por un período determinado, gestionar el ingreso de nuevos administradores a la página y crear campañas promocionales a través de email, los cuales se envían desde la página gracias al uso de Nodemailer. 
-Implementamos un sistema de autenticación con Auth0 para la gestión y el acceso de usuarios a la plataforma, dándoles accesos diferenciados entre clientes y administradores.
-Adicionalmente creamos un Bot que te guía por la página a través de preguntas y respuestas.
-Toda la aplicación se desarrollo usando la metodología scrum.
+Development of an e-commerce in the food sector. Collaborate with a team of 8
+members, we implement SCRUM methodology and Trello. Developed in a total of 3 and a half weeks.
+My role was based more on the front, where I created components such as the nav-bar, the design of the forms, the 
+loading component, I implemented the method to be able to use different card details, redux toolkit settings. Above all, it 
+was to provide solutions to the different problems that were appearing.
+Project features: 
+• Deploy of Front-end and Back-end 
+• Integrated third-party authentication (Auth0)
+• Payment Gateway, both subscription and direct payment (Mercado Pago)
+• Filters and combined product sorts
+• Cloudinary/upload/bucket 
+• Notifications (email / Nodemailer) 
+• Logical delete
+• Local Storage
+• Reviews/ Punctuation
+• Admin dashboard 
+• React Simple Chatbot
+• Among others…
 
-Tecnologías utilizadas:
+tech stack:
 Auth0, ChakraUi, Cloudinary, NodeMailer, Mercado Pago, React Simple Chatbot, Redux Toolkit, Apexcharts, MongoDB, Mongoose, NodeJS, ExpressJS, React.js.
 
 <h3 align="left">Link del deploy</h3>
@@ -44,9 +56,12 @@ https://heladitos-app.netlify.app/
 
 <h3 align="left">Henry Food</h3>
 
-Proyecto individual donde desarrolle de una SPA (Single Page Application) responsive sobre recetas culianrias utilizando React para el Front End y Redux como state management. Todos los componentes fueron desarrollados con CSS sin uso de librerias externas.
-La SPA consume datos de una API a través de una Back End desarrollado en Node.JS utilizando Express, agregando nuevas funcionalidades a la API original. Algunos features del proyecto: Cache de búsquedas, ordenamientos y filtros, formulario controlado para la creacion de nuevas recetas y paginado.
-La finalidad de este trabajo fue la de implementar por primera vez las tecnologias vistas en el bootcamp de Henry, en solo 2 semanas.
+Development of a responsive SPA that consumes data from an API that included: searches, orders and filters, controlled 
+form for creating recipes, responsive design. No external libraries were used.
+Front: React, redux, pure css.
+Back: Node.JS, express.
+Database: PostgreSQL and Sequalize
+
 
 <h3 align="left">Link del deploy</h3>
 https://food-app-black.vercel.app/
