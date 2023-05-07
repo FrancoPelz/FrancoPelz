@@ -17,7 +17,7 @@ I'm interested in web development, from the Front-end side as well as the Back-e
 
 ## 
 
-# 🚀 Proyectos
+# 🚀 Proyects
 
 <h3 align="left">HeladitosApp</h3>
 
@@ -75,7 +75,7 @@ https://food-app-black.vercel.app/
 
 ## 
 
-<h3 align="left">Contactame:</h3>
+<h3 align="left">Contact me!</h3>
 
 ![gmail_new_logo_icon_159149](https://user-images.githubusercontent.com/81165701/192690305-960782a0-8542-44f0-a437-a1ce7efd8105.png) pelaezmontt.franco@gamil.com
 
